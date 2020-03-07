@@ -1,0 +1,11 @@
+C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\bin\Debug\netcoreapp3.0\Db.Mysql.deps.json
+C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\bin\Debug\netcoreapp3.0\Db.Mysql.dll
+C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\bin\Debug\netcoreapp3.0\Db.Mysql.pdb
+C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\bin\Debug\netcoreapp3.0\Db.Interface.dll
+C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\bin\Debug\netcoreapp3.0\Db.Interface.pdb
+C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.csprojAssemblyReference.cache
+C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.AssemblyInfoInputs.cache
+C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.AssemblyInfo.cs
+C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.csproj.CopyComplete
+C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.dll
+C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.pdb

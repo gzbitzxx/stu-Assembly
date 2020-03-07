@@ -1,0 +1,7 @@
+C:\Users\Bit\source\repos\CoreStuden\Db.Interface\bin\Debug\netcoreapp3.0\Db.Interface.deps.json
+C:\Users\Bit\source\repos\CoreStuden\Db.Interface\bin\Debug\netcoreapp3.0\Db.Interface.dll
+C:\Users\Bit\source\repos\CoreStuden\Db.Interface\bin\Debug\netcoreapp3.0\Db.Interface.pdb
+C:\Users\Bit\source\repos\CoreStuden\Db.Interface\obj\Debug\netcoreapp3.0\Db.Interface.AssemblyInfoInputs.cache
+C:\Users\Bit\source\repos\CoreStuden\Db.Interface\obj\Debug\netcoreapp3.0\Db.Interface.AssemblyInfo.cs
+C:\Users\Bit\source\repos\CoreStuden\Db.Interface\obj\Debug\netcoreapp3.0\Db.Interface.dll
+C:\Users\Bit\source\repos\CoreStuden\Db.Interface\obj\Debug\netcoreapp3.0\Db.Interface.pdb

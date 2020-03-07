@@ -1,0 +1,11 @@
+C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\bin\Debug\netcoreapp3.0\Db.Sqlserver.deps.json
+C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\bin\Debug\netcoreapp3.0\Db.Sqlserver.dll
+C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\bin\Debug\netcoreapp3.0\Db.Sqlserver.pdb
+C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\bin\Debug\netcoreapp3.0\Db.Interface.dll
+C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\bin\Debug\netcoreapp3.0\Db.Interface.pdb
+C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.csprojAssemblyReference.cache
+C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.AssemblyInfoInputs.cache
+C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.AssemblyInfo.cs
+C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.csproj.CopyComplete
+C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.dll
+C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.pdb
