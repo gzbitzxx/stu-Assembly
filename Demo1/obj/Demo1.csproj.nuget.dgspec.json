@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Demo1\\Demo1.csproj": {}
+    "E:\\CodingWorkspace\\CoreStuden\\Demo1\\Demo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {
+    "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj",
+        "projectUniqueName": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj",
         "projectName": "Db.Interface",
-        "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj",
+        "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj",
         "packagesPath": "C:\\Users\\Bit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\obj\\",
+        "outputPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj": {
+    "E:\\CodingWorkspace\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj",
+        "projectUniqueName": "E:\\CodingWorkspace\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj",
         "projectName": "Db.Mysql",
-        "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj",
+        "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj",
         "packagesPath": "C:\\Users\\Bit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Mysql\\obj\\",
+        "outputPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Mysql\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {
-                "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj"
+              "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {
+                "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj"
               }
             }
           }
@@ -118,14 +118,14 @@
         }
       }
     },
-    "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj": {
+    "E:\\CodingWorkspace\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj",
+        "projectUniqueName": "E:\\CodingWorkspace\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj",
         "projectName": "Db.Sqlserver",
-        "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj",
+        "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj",
         "packagesPath": "C:\\Users\\Bit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Sqlserver\\obj\\",
+        "outputPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Sqlserver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -144,8 +144,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {
-                "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj"
+              "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {
+                "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj"
               }
             }
           }
@@ -177,14 +177,14 @@
         }
       }
     },
-    "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Demo1\\Demo1.csproj": {
+    "E:\\CodingWorkspace\\CoreStuden\\Demo1\\Demo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Demo1\\Demo1.csproj",
+        "projectUniqueName": "E:\\CodingWorkspace\\CoreStuden\\Demo1\\Demo1.csproj",
         "projectName": "Demo1",
-        "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Demo1\\Demo1.csproj",
+        "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Demo1\\Demo1.csproj",
         "packagesPath": "C:\\Users\\Bit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Demo1\\obj\\",
+        "outputPath": "E:\\CodingWorkspace\\CoreStuden\\Demo1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -203,14 +203,14 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {
-                "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj"
+              "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {
+                "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj"
               },
-              "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj": {
-                "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj"
+              "E:\\CodingWorkspace\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj": {
+                "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj"
               },
-              "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj": {
-                "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj"
+              "E:\\CodingWorkspace\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj": {
+                "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj"
               }
             }
           }

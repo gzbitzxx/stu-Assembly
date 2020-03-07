@@ -5,3 +5,10 @@ C:\Users\Bit\source\repos\CoreStuden\Db.Interface\obj\Debug\netcoreapp3.0\Db.Int
 C:\Users\Bit\source\repos\CoreStuden\Db.Interface\obj\Debug\netcoreapp3.0\Db.Interface.AssemblyInfo.cs
 C:\Users\Bit\source\repos\CoreStuden\Db.Interface\obj\Debug\netcoreapp3.0\Db.Interface.dll
 C:\Users\Bit\source\repos\CoreStuden\Db.Interface\obj\Debug\netcoreapp3.0\Db.Interface.pdb
+E:\CodingWorkspace\CoreStuden\Db.Interface\bin\Debug\netcoreapp3.0\Db.Interface.deps.json
+E:\CodingWorkspace\CoreStuden\Db.Interface\bin\Debug\netcoreapp3.0\Db.Interface.dll
+E:\CodingWorkspace\CoreStuden\Db.Interface\bin\Debug\netcoreapp3.0\Db.Interface.pdb
+E:\CodingWorkspace\CoreStuden\Db.Interface\obj\Debug\netcoreapp3.0\Db.Interface.AssemblyInfoInputs.cache
+E:\CodingWorkspace\CoreStuden\Db.Interface\obj\Debug\netcoreapp3.0\Db.Interface.AssemblyInfo.cs
+E:\CodingWorkspace\CoreStuden\Db.Interface\obj\Debug\netcoreapp3.0\Db.Interface.dll
+E:\CodingWorkspace\CoreStuden\Db.Interface\obj\Debug\netcoreapp3.0\Db.Interface.pdb

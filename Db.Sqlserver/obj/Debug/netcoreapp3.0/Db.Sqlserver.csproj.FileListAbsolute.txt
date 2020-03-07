@@ -9,3 +9,14 @@ C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sql
 C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.csproj.CopyComplete
 C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.dll
 C:\Users\Bit\source\repos\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.pdb
+E:\CodingWorkspace\CoreStuden\Db.Sqlserver\bin\Debug\netcoreapp3.0\Db.Sqlserver.deps.json
+E:\CodingWorkspace\CoreStuden\Db.Sqlserver\bin\Debug\netcoreapp3.0\Db.Sqlserver.dll
+E:\CodingWorkspace\CoreStuden\Db.Sqlserver\bin\Debug\netcoreapp3.0\Db.Sqlserver.pdb
+E:\CodingWorkspace\CoreStuden\Db.Sqlserver\bin\Debug\netcoreapp3.0\Db.Interface.dll
+E:\CodingWorkspace\CoreStuden\Db.Sqlserver\bin\Debug\netcoreapp3.0\Db.Interface.pdb
+E:\CodingWorkspace\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.csprojAssemblyReference.cache
+E:\CodingWorkspace\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.AssemblyInfoInputs.cache
+E:\CodingWorkspace\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.AssemblyInfo.cs
+E:\CodingWorkspace\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.csproj.CopyComplete
+E:\CodingWorkspace\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.dll
+E:\CodingWorkspace\CoreStuden\Db.Sqlserver\obj\Debug\netcoreapp3.0\Db.Sqlserver.pdb

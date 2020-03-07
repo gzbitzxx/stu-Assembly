@@ -520,11 +520,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Demo1\\Demo1.csproj",
+      "projectUniqueName": "E:\\CodingWorkspace\\CoreStuden\\Demo1\\Demo1.csproj",
       "projectName": "Demo1",
-      "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Demo1\\Demo1.csproj",
+      "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Demo1\\Demo1.csproj",
       "packagesPath": "C:\\Users\\Bit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Demo1\\obj\\",
+      "outputPath": "E:\\CodingWorkspace\\CoreStuden\\Demo1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -543,14 +543,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {
-              "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj"
+            "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {
+              "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj"
             },
-            "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj": {
-              "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj"
+            "E:\\CodingWorkspace\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj": {
+              "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Mysql\\Db.Mysql.csproj"
             },
-            "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj": {
-              "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj"
+            "E:\\CodingWorkspace\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj": {
+              "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj"
             }
           }
         }

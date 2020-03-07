@@ -9,3 +9,14 @@ C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.A
 C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.csproj.CopyComplete
 C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.dll
 C:\Users\Bit\source\repos\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.pdb
+E:\CodingWorkspace\CoreStuden\Db.Mysql\bin\Debug\netcoreapp3.0\Db.Mysql.deps.json
+E:\CodingWorkspace\CoreStuden\Db.Mysql\bin\Debug\netcoreapp3.0\Db.Mysql.dll
+E:\CodingWorkspace\CoreStuden\Db.Mysql\bin\Debug\netcoreapp3.0\Db.Mysql.pdb
+E:\CodingWorkspace\CoreStuden\Db.Mysql\bin\Debug\netcoreapp3.0\Db.Interface.dll
+E:\CodingWorkspace\CoreStuden\Db.Mysql\bin\Debug\netcoreapp3.0\Db.Interface.pdb
+E:\CodingWorkspace\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.csprojAssemblyReference.cache
+E:\CodingWorkspace\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.AssemblyInfoInputs.cache
+E:\CodingWorkspace\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.AssemblyInfo.cs
+E:\CodingWorkspace\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.csproj.CopyComplete
+E:\CodingWorkspace\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.dll
+E:\CodingWorkspace\CoreStuden\Db.Mysql\obj\Debug\netcoreapp3.0\Db.Mysql.pdb

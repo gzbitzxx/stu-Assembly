@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {
-      "Db.Interface/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "compile": {
-          "bin/placeholder/Db.Interface.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Db.Interface.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.0": {}
   },
-  "libraries": {
-    "Db.Interface/1.0.0": {
-      "type": "project",
-      "path": "../Db.Interface/Db.Interface.csproj",
-      "msbuildProject": "../Db.Interface/Db.Interface.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": [
-      "Db.Interface >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
     "C:\\Users\\Bit\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CodingWorkspace\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj",
-      "projectName": "Db.Sqlserver",
-      "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Sqlserver\\Db.Sqlserver.csproj",
+      "projectUniqueName": "E:\\CodingWorkspace\\CoreStuden\\MyReflection\\MyReflection.csproj",
+      "projectName": "MyReflection",
+      "projectPath": "E:\\CodingWorkspace\\CoreStuden\\MyReflection\\MyReflection.csproj",
       "packagesPath": "C:\\Users\\Bit\\.nuget\\packages\\",
-      "outputPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Sqlserver\\obj\\",
+      "outputPath": "E:\\CodingWorkspace\\CoreStuden\\MyReflection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,11 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {
-            "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {
-              "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj",
+      "projectUniqueName": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj",
       "projectName": "Db.Interface",
-      "projectPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\Db.Interface.csproj",
+      "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj",
       "packagesPath": "C:\\Users\\Bit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bit\\source\\repos\\CoreStuden\\Db.Interface\\obj\\",
+      "outputPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

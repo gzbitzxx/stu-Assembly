@@ -94,8 +94,26 @@ namespace Demo1
 
             //封装的方式
             {
-                IDbHelper dbHelper = DBFactory.CreateInstentce();
-                dbHelper.Query();
+                //IDbHelper dbHelper = DBFactory.CreateInstentce();
+                //dbHelper.Query();
+            }
+
+            //调用方法
+            {
+                //动态加载
+                Assembly assembly = Assembly.Load("Db.Sqlserver");
+                
+                //获取类型
+                Type type = assembly.GetType("Db.Sqlserver.Student");
+
+                //创建对象
+                object oTest = Activator.CreateInstance(type);
+                
+                //获取方法
+                MethodInfo method = type.GetMethod("Read");
+
+                //执行方法
+                method.Invoke(oTest,new object[] {"周星星" });
             }
         }
 

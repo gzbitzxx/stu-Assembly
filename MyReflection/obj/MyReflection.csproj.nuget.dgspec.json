@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {}
+    "E:\\CodingWorkspace\\CoreStuden\\MyReflection\\MyReflection.csproj": {}
   },
   "projects": {
-    "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj": {
+    "E:\\CodingWorkspace\\CoreStuden\\MyReflection\\MyReflection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj",
-        "projectName": "Db.Interface",
-        "projectPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\Db.Interface.csproj",
+        "projectUniqueName": "E:\\CodingWorkspace\\CoreStuden\\MyReflection\\MyReflection.csproj",
+        "projectName": "MyReflection",
+        "projectPath": "E:\\CodingWorkspace\\CoreStuden\\MyReflection\\MyReflection.csproj",
         "packagesPath": "C:\\Users\\Bit\\.nuget\\packages\\",
-        "outputPath": "E:\\CodingWorkspace\\CoreStuden\\Db.Interface\\obj\\",
+        "outputPath": "E:\\CodingWorkspace\\CoreStuden\\MyReflection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
