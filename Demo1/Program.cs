@@ -99,21 +99,76 @@ namespace Demo1
             }
 
             //调用方法
+            //{
+            //    //动态加载
+            //    Assembly assembly = Assembly.Load("Db.Sqlserver");
+
+            //    //获取类型
+            //    Type type = assembly.GetType("Db.Sqlserver.Student");
+
+            //    //创建对象
+            //    object oTest = Activator.CreateInstance(type);
+
+            //    //获取方法
+            //    MethodInfo method = type.GetMethod("Read");
+
+            //    //执行方法
+            //    method.Invoke(oTest, new object[] { "周星星" });
+
+            //    //获取方法
+            //    MethodInfo memberInfo = type.GetMethod("Writer", new Type[] { typeof(string), typeof(int) });
+
+            //    //多参数的方法
+            //    memberInfo.Invoke(oTest, new object[] { "周星小棍", 10010 });
+
+            //    //获取私有的方法
+            //    MethodInfo method1 = type.GetMethod("Test", BindingFlags.Instance | BindingFlags.NonPublic);
+
+            //    //输出数据
+            //    method1.Invoke(oTest, new object[] { "xxx" });
+
+            //    //---------------------泛型第一种调用
+            //    //获取泛型方法
+            //    MethodInfo method2 = type.GetMethod("Cat");
+
+            //    //泛型传参数
+            //    MethodInfo method3 = method2.MakeGenericMethod(new Type[] { typeof(string) });
+
+            //    //调用方法
+            //    method3.Invoke(oTest, new object[] { "THIS IS Cat" });
+
+            //    //-----------------------------泛型第二种调用
+            //    //Type type1 = type.MakeGenericType(new Type[] { typeof(string) });
+
+            //    //object oTest2 = Activator.CreateInstance(type1);
+
+            //    //MethodInfo method4 = type1.GetMethod("Cat");
+
+            //    //method4.Invoke(oTest2, new object[] { "THIS IS Cat 2" });
+
+
+            //    Singleton singleton = Singleton.CreateInstance();
+            //    Singleton singleton2 = Singleton.CreateInstance();
+            //    Singleton singleton3 = Singleton.CreateInstance();
+            //    Console.WriteLine(singleton.Equals(singleton2));
+
+
+
+            //    Type type1 = typeof(Student);
+            //    object oStudent = Activator.CreateInstance(type1);
+            //    type1.get();
+
+            //}
+
+            //特性学习
             {
-                //动态加载
-                Assembly assembly = Assembly.Load("Db.Sqlserver");
-                
-                //获取类型
-                Type type = assembly.GetType("Db.Sqlserver.Student");
+                Student student = new Student();
 
-                //创建对象
-                object oTest = Activator.CreateInstance(type);
-                
-                //获取方法
-                MethodInfo method = type.GetMethod("Read");
-
-                //执行方法
-                method.Invoke(oTest,new object[] {"周星星" });
+                //获取 Remark 标记
+                var remark = AttributeExtend.GetRemark<UserState>(UserState.Deleted);
+                Console.WriteLine(remark);
+                Console.WriteLine();
+                Console.ReadLine();
             }
         }
 
